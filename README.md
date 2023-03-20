@@ -8,3 +8,5 @@
 <br>
 <img align="center" width="100%" src="https://github.com/Huniko519/ChatGPT-Extension-Vsix/blob/main/3.png" /> 
 <br>
+<img align="center" width="100%" src="https://github.com/Huniko519/ChatGPT-Extension-Vsix/blob/main/4.png" /> 
+<br>
