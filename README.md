@@ -1,4 +1,4 @@
-# 🗣 AI VsCode ChatGPT Extension Vsix
+# 🗣 VsCode AI ChatGPT Extension Vsix
 <br>
 <a href="https://raw.githubusercontent.com/Huniko519/ChatGPT-Extension-Vsix/main/ai-chatgpt-1.0.0.vsix">Download</a>
 <hr>
