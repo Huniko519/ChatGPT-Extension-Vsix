@@ -1,6 +1,6 @@
 # 🗣 AI VsCode ChatGPT Extension Vsix
 <br>
-<code>git clone https://github.com/Huniko519/ChatGPT-Extension-Vsix.git</code>
+<a href="https://raw.githubusercontent.com/Huniko519/ChatGPT-Extension-Vsix/main/ai-chatgpt-1.0.0.vsix">Download Extension</a>
 <hr>
 <b>Install "ai-chatgpt-1.0.0.vsix" file</b><br><br>
 <img align="center" width="100%" src="https://github.com/Huniko519/ChatGPT-Extension-Vsix/blob/main/help/1.png" />
