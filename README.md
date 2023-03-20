@@ -1,4 +1,4 @@
-# 🗣 ChatGPT Extension Vsix
+# 🗣 AI Vscode ChatGPT Extension Vsix
 <br>
 <code>git clone https://github.com/Huniko519/ChatGPT-Extension-Vsix.git</code>
 <hr>
